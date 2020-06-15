@@ -1,7 +1,7 @@
 let languageConfig = Object.assign({}, require("../config.win32"));
 languageConfig.title = "Octave";
 languageConfig.description = "Scientific Programming Language";
-languageConfig.url = "https://www.gnu.org/software/octave/";
+languageConfig.url = "https://octave.org";
 languageConfig.founders = ["John W. Eaton", "many others"];
 languageConfig.developers = [];
 languageConfig.years = ["1988"];
